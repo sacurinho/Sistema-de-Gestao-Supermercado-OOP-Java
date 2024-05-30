@@ -1,0 +1,2 @@
+[ nome= Alardo , endereco= Campoane , telefone= 54342 , id= 0001 , dataCadastro= Thu ]
+[ nome= Chazia , endereco= Belo Horizonte , telefone= 36445 , id= 0002 , dataCadastro= Thu May 30 19:35:44 SAST 2024 ]

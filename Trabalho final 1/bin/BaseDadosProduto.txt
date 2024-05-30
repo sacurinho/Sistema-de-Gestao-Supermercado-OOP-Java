@@ -1,0 +1,3 @@
+[ marca= Namaacha , nome= agua , quantidadeEmStock= 277 , numCompras= 23 , medida= 500 , unidade= ml , id= 0001 , categoria= Bebidas , preco= 25.0 ]
+[ marca= Cadburry , nome= chocolate , quantidadeEmStock= 3 , numCompras= 0 , medida= 100 , unidade= g , id= 0002 , categoria= Mercearia , preco= 80.0 ]
+[ marca= Redbull , nome= energetico , quantidadeEmStock= 97 , numCompras= 3 , medida= 300 , unidade= ml , id= 0003 , categoria= Bebidas , preco= 120.0 ]
